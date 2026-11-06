@@ -1,0 +1,8 @@
+{
+  "place": "none",
+  "title": "VS Code",
+  "overlay": {
+    "kind": "dialog",
+    "width": 660
+  }
+}
